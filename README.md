@@ -1,4 +1,4 @@
-# Распознавание дипфейков
+# Распознавание дипфейков с использованием архитектуры XceptionNet
 ссылка на соревнования: https://www.kaggle.com/competitions/ml-intensive-yandex-academy-spring-2026
 
 ## Описание задачи
